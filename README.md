@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolineSheCodes
 - 👀 I’m interested in advancing my skills as a front end developer
-- 🌱 I’m currently teaching myself through Udemy, The Odin Project and Coursera 
+- 🌱 I’m currently teaching myself through various online sources 
 - 💞️ I’m looking to collaborate with helpful and open hearted people
 - 📫 How to reach me she.coder.caroline@gmail.com
 
